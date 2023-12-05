@@ -12,4 +12,4 @@
 
 ## Рішення
 
-`$ ssh -l bandit24 -p 2220 bandit.labs.overthewire.org`
+`$ ssh -l bandit0 -p 2220 bandit.labs.overthewire.org`
